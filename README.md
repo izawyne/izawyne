@@ -1,9 +1,8 @@
 ## 👋 Olá! Eu sou a Izabella Wyne
 
+- 👩🏾‍💻 Cientista de Dados com forte atuação em Engenharia de Dados, automação e inteligência artificial. 
 - 🎓 Sou Engenheira Química com Mestrado em Polímeros (Unicamp), apaixonada por ciência de dados, controle de processos e automação.
-- 🧠 Atualmente estou cursando uma especialização em Inteligência Artificial para Engenharia de Processos (Unicamp).
-- 🐍 Estou aprendendo Python, SQL e Machine Learning de forma autodidata, aplicando esses conhecimentos em projetos práticos.
-- 🔍 Busco oportunidades como Cientista de Dados unindo minha formação técnica com ferramentas analíticas para resolver problemas reais.
+- 🧠 Especialista em Inteligência Artificial para Engenharia de Processos (Unicamp).
 
 ---
 
